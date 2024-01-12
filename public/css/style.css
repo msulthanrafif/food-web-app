@@ -1,0 +1,45 @@
+body{
+    background: #252836;
+}
+
+.bg-primary{
+    background: #252836;
+}
+
+.bg-secondary{
+    background: #1F1D2B;
+}
+
+.nav-link{
+    color: #FFFFFF;
+}
+
+.nav-link:hover{
+    color: #FFCA40;
+}
+
+.card{
+    width:227px;
+    height:260px;
+    background: #1F1D2B;
+}
+
+.card-img-top{
+    width: 144px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: -34px;
+    object-position: center;
+    aspect-ratio: 1.09;
+}
+
+.order-img{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.table-dark{
+    font-size: 14px;
+    width:350px;
+}
+
